@@ -24,7 +24,7 @@ O serviço analisa imagens e extrai qualquer texto presente nelas. No exemplo pr
 O texto extraído revelou especificações detalhadas do Galaxy A55 5G.
 Foram identificadas características como tela AMOLED de 6,5”, câmera de 50MP e bateria de 5000mAh.
 
-##3. Geração de Legendas (`Add Captions to an Image`)
+## 3. Geração de Legendas (`Add Captions to an Image`)
 O serviço analisa a imagem e gera uma legenda descritiva automaticamente. No exemplo processado, uma foto de um cachorro vestindo acessórios foi analisada, e os seguintes resultados foram obtidos:
 
 A IA gerou a legenda: "Um cachorro usando um chapéu e óculos de sol".
