@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "d51d47f9-c3a9-4952-af3c-a6c0fa176da8",
+    "content-length": "161",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a dog wearing a hat and sunglasses",
+      "confidence": 0.9159461259841919
+    },
+    "metadata": {
+      "width": 900,
+      "height": 506
+    }
+  }
